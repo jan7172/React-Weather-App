@@ -231,7 +231,7 @@ const styles: { [key: string]: React.CSSProperties } = {
   },
   resultLocation: {
     fontSize: 18,
-    color: '#333', // Dunkler für bessere Lesbarkeit
+    color: '#333', 
     marginBottom: 8,
   },
   
